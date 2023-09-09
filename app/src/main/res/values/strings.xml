@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD Experiment 5</string>
+    <string name="app_title">MAD Experiment 5</string>
+    <string name="company_name">Splunk</string>
+    <string name="about_company">Splunk delivers the unified security and observability platform. We help organizations use data at any scale to become more secure and resilient so they can innovate with speed and agility.</string>
+    <string name="company_button_text">Click here to check the website!</string>
+    <string name="company_webpage_title">Splunk WebPage</string>
+    <string name="back_button_text">Back</string>
+</resources>
